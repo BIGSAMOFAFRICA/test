@@ -1,0 +1,14 @@
+.home-content {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.main-text {
+    margin-right: 500px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.head {
+    background-color: gray;
+}
